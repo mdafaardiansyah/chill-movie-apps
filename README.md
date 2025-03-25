@@ -11,6 +11,10 @@ Aplikasi streaming film dan series dengan HTML dan CSS.
 ## Cara Menjalankan
 1. Clone repository ini
 2. Buka file `index.html` di browser
+3. route :
+   - /index.html -> **Login Page**
+   - /register.html -> **Register Page**
+   - /home.html -> **Home Page**
 
 ## Credits
 - Font: Lato (Google Fonts)
