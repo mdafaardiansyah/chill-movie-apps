@@ -6,7 +6,6 @@ Aplikasi streaming film dan series dengan HTML dan CSS.
 
 ## Struktur Folder
 - `assets/` - Semua aset statis (gambar, fonts, dll.)
-- `css/` - Seluruh file CSS yang diorganisir dengan pendekatan komponen
 - `*.html` - File HTML untuk setiap halaman
 
 ## Cara Menjalankan
